@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+#stray {
+
+  border: 20px inset gray;
+  padding: ;
+  margin: 25px;
+}
+
+#star {
+  border: 20px inset gray;
+  padding: ;
+  margin: 25px;
+}
+
+#kaze {
+  border: 20px inset red;
+  padding: ;
+  margin: 25px;
+}
+
+#love {
+  border: 20px inset ;
+  padding: ;
+  margin: 25px;
+}
+
+h1 {
+  text-align: center;
+  background: linear-gradient(10deg, orange, red, orange );
+      border: black solid 3px;
+  border-radius: 10px;
+
+}
+
+p {
+  text-align: justify;
+}
